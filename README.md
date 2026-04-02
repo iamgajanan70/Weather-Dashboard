@@ -28,7 +28,7 @@ A beautifully designed, modern weather application built entirely in Java (Swing
 To get a local copy up and running, execute the following command in your terminal:
 
 ```bash
-git clone https://github.com/iamGajanan/next-gen-weather-dashboard.git
+git clone https://github.com/iamGajanan70/Weather-Dashboard.git
 cd next-gen-weather-dashboard
 ```
 
