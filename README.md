@@ -1,6 +1,6 @@
 # 🌤️ Next-Gen Weather Dashboard
 
-A beautifully designed, modern weather application built entirely in Java (Swing/AWT) from the ground up natively without external visual libraries. It pulls real-time weather data using the OpenWeatherMap API and boasts a stunning visual experience utilizing **Glassmorphism**, smooth gradients, and anti-aliased typography.
+A beautifully designed, modern weather application built entirely in Java (Swing/AWT) from the ground up natively without external visual libraries. It pulls real-time weather data using the OpenWeatherMap API and boasts a stunning visual experience utilizing **Glassmorphism**, smooth gradients, and anti-aliased typography......!!!
 
 ## ✨ Features
 - **Sleek Glassmorphism UI:** Semi-transparent panels, elegant white borders, and soft shadows provide a "super cool" modern look.
