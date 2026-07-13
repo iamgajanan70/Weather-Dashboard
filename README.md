@@ -24,15 +24,13 @@ A beautifully designed, modern weather application built entirely in Java (Swing
 ### Prerequisites
 - Formally tested on **Java JDK 8 through JDK 23+**. Ensure Java is installed and available in your system path.
 
-### 1. Clone the repository
+### 1. Clone My repository
 To get a local copy up and running, execute the following command in your terminal:
 
 ```bash
 git clone https://github.com/iamGajanan70/Weather-Dashboard.git
 cd next-gen-weather-dashboard
 ```
-
-*(Note: Replace `iamGajanan` and the repository URL with the actual GitHub link if operating under a different fork).*
 
 ### 2. Enter your API Key (Optional)
 The application comes internally pre-configured with a default active API Key. However, for continuous production usage, update the `API_KEY` static variables inside `WeatherDashboard.java` with your own free OpenWeather key.
@@ -55,7 +53,7 @@ java WeatherDashboard
 ## 🎮 Usage
 - **Search functionality:** Enter a city name (e.g., *Paris*) or a pin code into the top right search bar and press **Search 🔍**.
 - **Sidebar presets:** Simply click on any major city populated in the *Quick Select* sidebar.
-- **Details:** The bottom trio-panel instantly displays specific localized data surrounding Humidity 💧, Wind Speed 💨, and Visibility 👁️. 
+- **Details:** The bottom trio-panel instantly displays specific localized data surrounding Humidity 💧, Wind Speed 💨, and Visibility 👁️.
 
 ## 💬 Code Quality Notes
 - `Graphics2D` handles high-quality rendering utilizing explicit `RenderingHints.KEY_ANTIALIASING` enabled preventing jagged edges.
